@@ -19,53 +19,53 @@ else:
     import urllib.request
     import urllib.parse
 
-owner = VIPRO.LINE() #Akun Utama
-owner.login(token="ErGQLF7ZKQylfg9HT1D8.yAM1ZO3J61gOwuemMdtLYa.Vhcq2H/ckI+ksLJldPJ68doYW+1G6lCKhN8+SgJ5ywc=")
-owner.loginResult()
+#owner = VIPRO.LINE() #Akun Utama
+#owner.login(token="ErGQLF7ZKQylfg9HT1D8.yAM1ZO3J61gOwuemMdtLYa.Vhcq2H/ckI+ksLJldPJ68doYW+1G6lCKhN8+SgJ5ywc=")
+#owner.loginResult()
     
-vipro = VIPRO.LINE()
-vipro.login(token="Erqc0MKD2XMOqqiU89oc.RjjX/PW5a9d/mkreQyncZa.Xcwc/Si+3+C+dPVoT3wiaRJ8pBXyomcFhV0t+ccu53o=")
-vipro.loginResult()
+#vipro = VIPRO.LINE()
+#vipro.login(token="Erqc0MKD2XMOqqiU89oc.RjjX/PW5a9d/mkreQyncZa.Xcwc/Si+3+C+dPVoT3wiaRJ8pBXyomcFhV0t+ccu53o=")
+#vipro.loginResult()
 
 ki = VIPRO.LINE()
-ki.login(token="ErNrpzvgxTQuCCCEIc48.9b6szpiJ3KHyLZhfedasIa.I5hGFZCbDPEkzftDFBKuEObKk6DZ/gUmlVooWworqPI=")
+ki.login(token="EsiQtk79w4wrjvyupPx7.i9Bg/51omKwkeRUFi/fEHW.gOP61/5TCdFZop0Qe1Q9YKg/FGFOq70wdTADjn+U0E8=")
 ki.loginResult()
 
-ki2= VIPRO.LINE()
-ki2.login(token="ErUuDJpe3FfHQxP7vez5.fj0S/qYKVWGRwpehA8QPbq.MP0fUIlQ6GBsrJNsAEaA8xI79n3aOyy5ZmeWLvSUYME=")
-ki2.loginResult()
+#ki2= VIPRO.LINE()
+#ki2.login(token="ErUuDJpe3FfHQxP7vez5.fj0S/qYKVWGRwpehA8QPbq.MP0fUIlQ6GBsrJNsAEaA8xI79n3aOyy5ZmeWLvSUYME=")
+#ki2.loginResult()
 
-ki3 = VIPRO.LINE()
-ki3.login(token="ErtV7n6XK9RVziV52C8d.mKZbV5HoQB+/lk9EZno5+q.ye3faG2W4DS/7tW8pcCb/NQVlFnrZH9ztHJoViiPHCI=")
-ki3.loginResult()
+#ki3 = VIPRO.LINE()
+#ki3.login(token="ErtV7n6XK9RVziV52C8d.mKZbV5HoQB+/lk9EZno5+q.ye3faG2W4DS/7tW8pcCb/NQVlFnrZH9ztHJoViiPHCI=")
+#ki3.loginResult()
 
-ki4 = VIPRO.LINE()
-ki4.login(token="ErSViKmG8v0To3nUFBP7.9JEdd8ZTx6V8TnFFP76r5W.iAIZoEQrSM65BPnT5kBw5BwrNggzfWOikTnHXs0KyZI=")
-ki4.loginResult()
+#ki4 = VIPRO.LINE()
+#ki4.login(token="ErSViKmG8v0To3nUFBP7.9JEdd8ZTx6V8TnFFP76r5W.iAIZoEQrSM65BPnT5kBw5BwrNggzfWOikTnHXs0KyZI=")
+#ki4.loginResult()
 
-ki5 = VIPRO.LINE()
-ki5.login(token="Er0PDrUWHOfGCEs5Hw79.hBhkoFGOWq2ca/v2aGDfkq.xsbXP56m8feIxi8BWYqANhD94INp/FtLUcbI99Dim/s=")
-ki5.loginResult()
+#ki5 = VIPRO.LINE()
+#ki5.login(token="Er0PDrUWHOfGCEs5Hw79.hBhkoFGOWq2ca/v2aGDfkq.xsbXP56m8feIxi8BWYqANhD94INp/FtLUcbI99Dim/s=")
+#ki5.loginResult()
 
-ki6 = VIPRO.LINE()
-ki6.login(token="EruO6kOSAunQpAW0kmec.16TgKHOKEZdzbqSPFT9+pa.GQTS3Nsq3bOF78DfXrNwPFrB77bKka1WbnDxVoYuMPo=")
-ki6.loginResult()
+#ki6 = VIPRO.LINE()
+#ki6.login(token="EruO6kOSAunQpAW0kmec.16TgKHOKEZdzbqSPFT9+pa.GQTS3Nsq3bOF78DfXrNwPFrB77bKka1WbnDxVoYuMPo=")
+#ki6.loginResult()
 
-ki7 = VIPRO.LINE()
-ki7.login(token="ErMEvQYDEF1pTXn9LExf.8xqyonc7QGpg4SKhcRUsVW.3jehwxA/EA0R/D/xFh5nfEKOzZYvuFzZBd+ZOOWOGiw=")
-ki7.loginResult()
+#ki7 = VIPRO.LINE()
+#ki7.login(token="ErMEvQYDEF1pTXn9LExf.8xqyonc7QGpg4SKhcRUsVW.3jehwxA/EA0R/D/xFh5nfEKOzZYvuFzZBd+ZOOWOGiw=")
+#ki7.loginResult()
 
-ki8 = VIPRO.LINE()
-ki8.login(token="Er7lRkmrqj47saJFoy0f./JXwkfp+u4nfpiyYCt3rhW.bU2pyM30/RUz4fl7DxdnxtI0YUN0PaFJHg4hCmqwHK8=")
-ki8.loginResult()
+#ki8 = VIPRO.LINE()
+#ki8.login(token="Er7lRkmrqj47saJFoy0f./JXwkfp+u4nfpiyYCt3rhW.bU2pyM30/RUz4fl7DxdnxtI0YUN0PaFJHg4hCmqwHK8=")
+#ki8.loginResult()
 
-ki9 = VIPRO.LINE()
-ki9.login(token="ErVryYbR7zEK9LJn7pmf.SrrNO62JoBMwTM0dc/1lxW.XYKTWqIE+SBYApPpLVGA7D6sDkQt8Xd7wmjZW/y6RTE=")
-ki9.loginResult()
+#ki9 = VIPRO.LINE()
+#ki9.login(token="ErVryYbR7zEK9LJn7pmf.SrrNO62JoBMwTM0dc/1lxW.XYKTWqIE+SBYApPpLVGA7D6sDkQt8Xd7wmjZW/y6RTE=")
+#ki9.loginResult()
 
-ki10 = VIPRO.LINE() #Ghost
-ki10.login(token="Erlp9kaqDWsTmjOD5sc9.t2D+Q8GQs5QI1aUzyFPrAq.XD9UZeXKws/fCMqcv9VnICTFBnMhe4yJ1LdFmAh/0tM=")
-ki10.loginResult()
+#ki10 = VIPRO.LINE() #Ghost
+#ki10.login(token="Erlp9kaqDWsTmjOD5sc9.t2D+Q8GQs5QI1aUzyFPrAq.XD9UZeXKws/fCMqcv9VnICTFBnMhe4yJ1LdFmAh/0tM=")
+#ki10.loginResult()
 print "═══「vipro login success」═══"
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -328,39 +328,39 @@ translateMessage ="""
 ╠╩═══════════════
 ╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
 """
-KAC=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
-DEF=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
-mid = vipro.getProfile().mid
+KAC=[ki]
+DEF=[ki]
+#mid = vipro.getProfile().mid
 kimid = ki.getProfile().mid
-ki2mid = ki2.getProfile().mid
-ki3mid = ki3.getProfile().mid
-ki4mid = ki4.getProfile().mid
-ki5mid = ki5.getProfile().mid
-ki6mid = ki6.getProfile().mid
-ki7mid = ki7.getProfile().mid
-ki8mid = ki8.getProfile().mid
-ki9mid = ki9.getProfile().mid
-ki10mid = ki10.getProfile().mid
-Smid = owner.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"u61a9b5ce8de3eb51a859410c9834e5c8"]
-admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"u61a9b5ce8de3eb51a859410c9834e5c8","ufdd0587a1d80d9285889f9d599d1f5eb","","",""]
-creator=["u61a9b5ce8de3eb51a859410c9834e5c8"]
+#ki2mid = ki2.getProfile().mid
+#ki3mid = ki3.getProfile().mid
+#ki4mid = ki4.getProfile().mid
+#ki5mid = ki5.getProfile().mid
+#ki6mid = ki6.getProfile().mid
+#ki7mid = ki7.getProfile().mid
+#ki8mid = ki8.getProfile().mid
+#ki9mid = ki9.getProfile().mid
+#ki10mid = ki10.getProfile().mid
+#Smid = owner.getProfile().mid
+Bots=[kimid,"u23d6c6fb9d4e32458a12bb9f23e15e87"]
+admin=[kimid,"u23d6c6fb9d4e32458a12bb9f23e15e87","","","",""]
+creator=["u23d6c6fb9d4e32458a12bb9f23e15e87"]
 admsa=["u61a9b5ce8de3eb51a859410c9834e5c8"]
 
 readOpen = codecs.open("st2__b.json","r","utf-8")
 read = json.load(readOpen)
 
-contact = vipro.getProfile()
-restoreprofile = vipro.getProfile()
-restoreprofile.displayName = contact.displayName
-restoreprofile.statusMessage = contact.statusMessage                        
-restoreprofile.pictureStatus = contact.pictureStatus
+#contact = vipro.getProfile()
+#restoreprofile = vipro.getProfile()
+#restoreprofile.displayName = contact.displayName
+#restoreprofile.statusMessage = contact.statusMessage                        
+#restoreprofile.pictureStatus = contact.pictureStatus
 
-contact = vipro.getProfile()
-backup = vipro.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = vipro.getProfile()
+#backup = vipro.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
 contact = ki.getProfile()
 backup = ki.getProfile()
@@ -368,53 +368,53 @@ backup.displayName = contact.displayName
 backup.statusMessage = contact.statusMessage
 backup.pictureStatus = contact.pictureStatus
 
-contact = ki2.getProfile()
-backup = ki2.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki2.getProfile()
+#backup = ki2.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki3.getProfile()
-backup = ki3.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki3.getProfile()
+#backup = ki3.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki4.getProfile()
-backup = ki4.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki4.getProfile()
+#backup = ki4.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki5.getProfile()
-backup = ki5.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki5.getProfile()
+#backup = ki5.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki6.getProfile()
-backup = ki6.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki6.getProfile()
+#backup = ki6.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki7.getProfile()
-backup = ki7.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki7.getProfile()
+#backup = ki7.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki8.getProfile()
-backup = ki8.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki8.getProfile()
+#backup = ki8.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
-contact = ki9.getProfile()
-backup = ki9.getProfile()
-backup.displayName = contact.displayName
-backup.statusMessage = contact.statusMessage
-backup.pictureStatus = contact.pictureStatus
+#contact = ki9.getProfile()
+#backup = ki9.getProfile()
+#backup.displayName = contact.displayName
+#backup.statusMessage = contact.statusMessage
+#backup.pictureStatus = contact.pictureStatus
 
 wait = {
     'contact':False,
@@ -760,29 +760,29 @@ def bot(op):
             return
         if op.type == 13:
             if mid in op.param3:
-                G = vipro.getGroup(op.param1)
+                G = ki.getGroup(op.param1)
                 if wait["autoJoin"] == True:
                     if wait["autoCancel"]["on"] == True:
                         if len(G.members) <= wait["autoCancel"]["members"]:
-                            vipro.rejectGroupInvitation(op.param1)
+                            ki.rejectGroupInvitation(op.param1)
                         else:
-                            vipro.acceptGroupInvitation(op.param1)
+                            ki.acceptGroupInvitation(op.param1)
 			    G.preventJoinByTicket = False
-			    vipro.updateGroup(G)
+			    ki.updateGroup(G)
 			    Ticket = vipro.reissueGroupTicket(op.param1)
 			    ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-			    G.preventJoinByTicket = True
-			    vipro.updateGroup(G)
+			    #ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
+			    #G.preventJoinByTicket = True
+			    ki.updateGroup(G)
                     else:
-                        vipro.acceptGroupInvitation(op.param1)
+                        ki.acceptGroupInvitation(op.param1)
                 elif wait["autoCancel"]["on"] == True:
                     if len(G.members) <= wait["autoCancel"]["members"]:
                         vipro.rejectGroupInvitation(op.param1)
@@ -802,32 +802,32 @@ def bot(op):
               if not op.param2 in admsa and creator:
                 if wait["protect"] == True: 
                     try:
-                        klist=[ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9]
+                        klist=[ki]
                         kicker = random.choice(klist) 
-                        G = kicker.getGroup(op.param1)
+                        ki = kicker.getGroup(op.param1)
                         kicker.kickoutFromGroup(op.param1,[op.param2])
-                        vipro.inviteIntoGroup(op.param1,[op.param3])
+                        ki.inviteIntoGroup(op.param1,[op.param3])
                     except Exception, e:
                        print e                                       
                     
         if op.type == 13:
             if op.param3 in mid:
                 if op.param2 in kimid:
-                    G = kimid.getGroup(op.param1)
-                    G.preventJoinByTicket = False
+                    ki = kimid.getGroup(op.param1)
+                    ki.preventJoinByTicket = False
                     kimid.updateGroup(G)
                     Ticket = kimid.reissueGroupTicket(op.param1)
-                    vipro.acceptGroupInvitationByTicket(op.param1,Ticket)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ticket)
                     G.preventJoinByTicket = True
                     kimid.updateGroup(G)
                     Ticket = kimid.reissueGroupTicket(op.param1)
 
             if op.param3 in kimid:
                 if op.param2 in mid:
-                    X = vipro.getGroup(op.param1)
+                    X = ki.getGroup(op.param1)
                     X.preventJoinByTicket = False
-                    vipro.updateGroup(X)
-                    Ti = vipro.reissueGroupTicket(op.param1)
+                    ki.updateGroup(X)
+                    Ti = ki.reissueGroupTicket(op.param1)
                     ki.acceptGroupInvitationByTicket(op.param1,Ti)
                     X.preventJoinByTicket = True
                     ki.updateGroup(X)
@@ -839,23 +839,23 @@ def bot(op):
                     X.preventJoinByTicket = False
                     ki.updateGroup(X)
                     Ti = ki.reissueGroupTicket(op.param1)
-                    ki2.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
                     X.preventJoinByTicket = True
-                    ki2.updateGroup(X)
-                    Ti = ki2.reissueGroupTicket(op.param1)
+                    ki.updateGroup(X)
+                    Ti = ki.reissueGroupTicket(op.param1)
 
             if op.param3 in ki3mid:
                 if op.param2 in ki2mid:
-                    X = ki2.getGroup(op.param1)
+                    X = ki.getGroup(op.param1)
                     X.preventJoinByTicket = False
-                    ki2.updateGroup(X)
-                    Ti = ki2.reissueGroupTicket(op.param1)
-                    ki3.acceptGroupInvitationByTicket(op.param1,Ti)
+                    ki.updateGroup(X)
+                    Ti = ki.reissueGroupTicket(op.param1)
+                    ki.acceptGroupInvitationByTicket(op.param1,Ti)
                     X.preventJoinByTicket = True
-                    ki3.updateGroup(X)
-                    Ti = ki3.reissueGroupTicket(op.param1)
+                    ki.updateGroup(X)
+                    Ti = ki.reissueGroupTicket(op.param1)
                 
-            if op.param3 in ki4mid:
+            #if op.param3 in ki4mid:
                 if op.param2 in ki3mid:
                     X = ki3.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -866,7 +866,7 @@ def bot(op):
                     ki4.updateGroup(X)
                     Ti = ki4.reissueGroupTicket(op.param1)
                 
-            if op.param3 in ki5mid:
+            #if op.param3 in ki5mid:
                 if op.param2 in ki4mid:
                     X = ki4.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -877,7 +877,7 @@ def bot(op):
                     ki5.updateGroup(X)
                     Ti = ki5.reissueGroupTicket(op.param1)
                 
-            if op.param3 in ki6mid:
+            #if op.param3 in ki6mid:
                 if op.param2 in ki5mid:
                     X = ki5.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -888,7 +888,7 @@ def bot(op):
                     ki6.updateGroup(X)
                     Ti = ki6.reissueGroupTicket(op.param1)
                 
-            if op.param3 in ki7mid:
+            #if op.param3 in ki7mid:
                 if op.param2 in ki6mid:
                     X = ki6.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -899,7 +899,7 @@ def bot(op):
                     ki7.updateGroup(X)
                     Ti = ki7.reissueGroupTicket(op.param1)
                 
-            if op.param3 in ki8mid:
+            #if op.param3 in ki8mid:
                 if op.param2 in ki7mid:
                     X = ki7.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -910,7 +910,7 @@ def bot(op):
                     ki8.updateGroup(X)
                     Ti = ki8.reissueGroupTicket(op.param1)
                     
-            if op.param3 in ki9mid:
+            #if op.param3 in ki9mid:
                 if op.param2 in mid:
                     X = vipro.getGroup(op.param1)
                     X.preventJoinByTicket = False
@@ -921,7 +921,7 @@ def bot(op):
                     vipro.updateGroup(X)
                     Ti = vipro.reissueGroupTicket(op.param1)
                                   
-        if op.type == 55:
+        #if op.type == 55:
 	    try:
 	      group_id = op.param1
 	      user_id=op.param2
@@ -955,17 +955,17 @@ def bot(op):
              # vipro.inviteIntoGroup(op.param1,[op.param3])
             if op.param2 not in Bots + admin + creator:
                     try:
-                    	gs = vipro.getGroup(op.param1)
-                        gs = ki2.getGroup(op.param1)
-                        gs = ki3.getGroup(op.param1)
-                        gs = ki4.getGroup(op.param1)
-                        gs = ki5.getGroup(op.param1)
-                        gs = ki6.getGroup(op.param1)
-                        gs = ki7.getGroup(op.param1)
-                        gs = ki8.getGroup(op.param1)
-                        gs = ki9.getGroup(op.param1)
-                        targets = [op.param2]
-                        for target in targets:
+                    	#gs = vipro.getGroup(op.param1)
+                        #gs = ki2.getGroup(op.param1)
+                        #gs = ki3.getGroup(op.param1)
+                        #gs = ki4.getGroup(op.param1)
+                        #gs = ki5.getGroup(op.param1)
+                        #gs = ki6.getGroup(op.param1)
+                        #gs = ki7.getGroup(op.param1)
+                        #gs = ki8.getGroup(op.param1)
+                        #gs = ki9.getGroup(op.param1)
+                        #targets = [op.param2]
+                        #for target in targets:
                            try:
                                 wait["blacklist"][target] = True
                                 f=codecs.open('st2__b.json','w','utf-8')
@@ -982,7 +982,7 @@ def bot(op):
                 pass
               else:
                   random.choice(KAC).kickoutFromGroup(op.param1,[op.param2])
-                  vipro.inviteIntoGroup(op.param1,[op.param3])                
+                  ki.inviteIntoGroup(op.param1,[op.param3])                
             if op.param3 in Smid: #Akun Utama Ke Kick
                 G = random.choice(KAC).getGroup(op.param1)
                 random.choice(KAC).kickoutFromGroup(op.param1,[op.param2])
@@ -1036,25 +1036,25 @@ def bot(op):
                 url = msg.contentMetadata["postEndUrl"]
                 vipro.like(url[25:58], url[66:], likeType=1001)
                 ki.like(url[25:58], url[66:], likeType=1002)
-                ki2.like(url[25:58], url[66:], likeType=1003)
-                ki3.like(url[25:58], url[66:], likeType=1004)
-                ki4.like(url[25:58], url[66:], likeType=1005)
-                ki5.like(url[25:58], url[66:], likeType=1001)
-                ki6.like(url[25:58], url[66:], likeType=1002)
-                ki7.like(url[25:58], url[66:], likeType=1003)
-                ki8.like(url[25:58], url[66:], likeType=1004)
-                ki9.like(url[25:58], url[66:], likeType=1005)
+                #ki2.like(url[25:58], url[66:], likeType=1003)
+                #ki3.like(url[25:58], url[66:], likeType=1004)
+                #ki4.like(url[25:58], url[66:], likeType=1005)
+                #ki5.like(url[25:58], url[66:], likeType=1001)
+                #ki6.like(url[25:58], url[66:], likeType=1002)
+                #ki7.like(url[25:58], url[66:], likeType=1003)
+                #ki8.like(url[25:58], url[66:], likeType=1004)
+                #ki9.like(url[25:58], url[66:], likeType=1005)
                 #ki10.like(url[25:58], url[66:], likeType=1001)
-                vipro.comment(url[25:58], url[66:], wait["comment1"])
+                #vipro.comment(url[25:58], url[66:], wait["comment1"])
                 ki.comment(url[25:58], url[66:], wait["comment1"])
-                ki2.comment(url[25:58], url[66:], wait["comment1"])
-                ki3.comment(url[25:58], url[66:], wait["comment1"])
-                ki4.comment(url[25:58], url[66:], wait["comment1"])
-                ki5.comment(url[25:58], url[66:], wait["comment1"])
-                ki6.comment(url[25:58], url[66:], wait["comment1"])
-                ki7.comment(url[25:58], url[66:], wait["comment1"])
-                ki8.comment(url[25:58], url[66:], wait["comment1"])
-                ki9.comment(url[25:58], url[66:], wait["comment1"])
+                #ki2.comment(url[25:58], url[66:], wait["comment1"])
+                #ki3.comment(url[25:58], url[66:], wait["comment1"])
+                #ki4.comment(url[25:58], url[66:], wait["comment1"])
+                #ki5.comment(url[25:58], url[66:], wait["comment1"])
+                #ki6.comment(url[25:58], url[66:], wait["comment1"])
+                #ki7.comment(url[25:58], url[66:], wait["comment1"])
+                #ki8.comment(url[25:58], url[66:], wait["comment1"])
+                #ki9.comment(url[25:58], url[66:], wait["comment1"])
                 #ki10.comment(url[25:58], url[66:], wait["comment1"])
                 wait["likeOn"] = False
 #-----------------------------------------------
@@ -1062,42 +1062,42 @@ def bot(op):
             if op.param3 == '1':
                 if op.param1 in wait['pname']:
                     try:
-                        G = vipro.getGroup(op.param1)
+                        #G = vipro.getGroup(op.param1)
                     except:
                         try:
                             G = ki.getGroup(op.param1)
                         except:
                             try:
-                                G = ki2.getGroup(op.param1)
+                                #G = ki2.getGroup(op.param1)
                             except:
                                 try:
-                                    G = ki3.getGroup(op.param1)
+                                    #G = ki3.getGroup(op.param1)
                                 except:
                                     try:
-                                        G = ki4.getGroup(op.param1)
+                                        #G = ki4.getGroup(op.param1)
 				    except:
 					try:
-                                            G = ki5.getGroup(op.param1)
+                                            #G = ki5.getGroup(op.param1)
                                         except:
                                             pass
                     G.name = wait['pro_name'][op.param1]
                     try:
-                        vipro.updateGroup(G)
+                        #vipro.updateGroup(G)
                     except:
                         try:
                             ki.updateGroup(G)
                         except:
                             try:
-                                ki2.updateGroup(G)
+                                #ki2.updateGroup(G)
                             except:
                                 try:
-                                    ki3.updateGroup(G)
+                                    #ki3.updateGroup(G)
                                 except:
                                     try:
-                                        ki4.updateGroup(G)
+                                        #ki4.updateGroup(G)
                                     except:
                                         try:
-                                            ki5.updateGroup(G)
+                                            #ki5.updateGroup(G)
                                         except:
                                             pass
                     if op.param2 in Bots:
@@ -1107,16 +1107,16 @@ def bot(op):
                             ki.kickoutFromGroup(op.param1,[op.param2])
                         except:
                             try:
-                                ki2.kickoutFromGroup(op.param1,[op.param2])
+                                #ki2.kickoutFromGroup(op.param1,[op.param2])
                             except:
                                 try:
-                                    ki3.kickoutFromGroup(op.param1,[op.param2])
+                                    #ki3.kickoutFromGroup(op.param1,[op.param2])
                                 except:
                                     try:
-                                        ki4.kickoutFromGroup(op.param1,[op.param2])
+                                        #ki4.kickoutFromGroup(op.param1,[op.param2])
                                     except:
                                         try:
-                                            ki5.kickoutFromGroup(op.param1,[op.param2])
+                                            #ki5.kickoutFromGroup(op.param1,[op.param2])
                                         except:
                                             pass
         if op.type == 26:
@@ -1136,7 +1136,7 @@ def bot(op):
                         data = json.loads(data)
                         if data['status'] == 200:
                             if data['result']['result'] == 100:
-                                vipro.sendText(msg.to, "🤠" + data['result']['response'].encode('utf-8'))
+                                ki.sendText(msg.to, "🤠" + data['result']['response'].encode('utf-8'))
             if "MENTION" in msg.contentMetadata.keys() != None:
                  if wait['detectMention'] == True:
                      contact = vipro.getContact(msg.from_)
@@ -1147,11 +1147,11 @@ def bot(op):
                      mentionees = mention["MENTIONEES"]
                      for mention in mentionees:
                            if mention["M"] in mid:
-                                  vipro.sendImageWithURL(msg.to,ret_)
+                                  ki.sendImageWithURL(msg.to,ret_)
                                   msg.contentType = 13
                                   msg.contentMetadata = {'mid': msg.from_}
-                                  vipro.sendMessage(msg)
-                                  vipro.sendText(msg.to, wait["tagme"])
+                                  ki.sendMessage(msg)
+                                  ki.sendText(msg.to, wait["tagme"])
                                   break
             if "MENTION" in msg.contentMetadata.keys() != None:
             	if wait['stickerMention'] == True:
@@ -1167,10 +1167,10 @@ def bot(op):
                                                   	   'STKVER': 100,
                                                   	   'STKID':110 
                                               		 }
-                           	vipro.sendText(msg.to, wait["tagme"])
+                           #.sendText(msg.to, wait["tagme"])
                            	vipro.sendMessage(msg)
                            	break
-            if 'MENTION' in msg.contentMetadata.keys() != None:
+            #if 'MENTION' in msg.contentMetadata.keys() != None:
                  if wait["kickMention"] == True:
                      contact = vipro.getContact(msg.from_)
                      mention = ast.literal_eval(msg.contentMetadata['MENTION'])
@@ -1206,7 +1206,7 @@ def bot(op):
                                       vipro.sendText(msg.to,"Error")
                                       wait['invite'] = False
                                       break
-            if wait["alwayRead"] == True:
+            #if wait["alwayRead"] == True:
                 if msg.toType == 0:
                     vipro.sendChatChecked(msg.from_,msg.id)
                 else:
@@ -1221,23 +1221,23 @@ def bot(op):
             if msg.contentType == 13:
                 if wait["wblack"] == True:
                     if msg.contentMetadata["mid"] in wait["commentBlack"]:
-                        vipro.sendText(msg.to,"sudah masuk daftar hitam👈")
+                        ki.sendText(msg.to,"sudah masuk daftar hitam👈")
                         wait["wblack"] = False
                     else:
                         wait["commentBlack"][msg.contentMetadata["mid"]] = True
                         wait["wblack"] = False
-                        vipro.sendText(msg.to,"Itu tidak berkomentar👈")
+                        ki.sendText(msg.to,"Itu tidak berkomentar👈")
                 elif wait["dblack"] == True:
                     if msg.contentMetadata["mid"] in wait["commentBlack"]:
                         del wait["commentBlack"][msg.contentMetadata["mid"]]
-                        vipro.sendText(msg.to,"Done")
+                        ki.sendText(msg.to,"Done")
                         wait["dblack"] = False
                     else:
                         wait["dblack"] = False
-                        vipro.sendText(msg.to,"Tidak ada dalam daftar hitam👈")
+                        ki.sendText(msg.to,"Tidak ada dalam daftar hitam👈")
                 elif wait["wblacklist"] == True:
                     if msg.contentMetadata["mid"] in wait["blacklist"]:
-                        vipro.sendText(msg.to,"sudah masuk daftar hitam")
+                        ki.sendText(msg.to,"sudah masuk daftar hitam")
                         wait["wblacklist"] = False
                     else:
                         wait["blacklist"][msg.contentMetadata["mid"]] = True
@@ -1246,33 +1246,33 @@ def bot(op):
                 elif wait["dblacklist"] == True:
                     if msg.contentMetadata["mid"] in wait["blacklist"]:
                         del wait["blacklist"][msg.contentMetadata["mid"]]
-                        vipro.sendText(msg.to,"Done👈")
+                        ki.sendText(msg.to,"Done👈")
                         wait["dblacklist"] = False
                     else:
                         wait["dblacklist"] = False
-                        vipro.sendText(msg.to,"Done👈")
+                        ki.sendText(msg.to,"Done👈")
                 elif wait["contact"] == True:
                     msg.contentType = 0
-                    vipro.sendText(msg.to,msg.contentMetadata["mid"])
+                    ki.sendText(msg.to,msg.contentMetadata["mid"])
                     if 'displayName' in msg.contentMetadata:
                         contact = vipro.getContact(msg.contentMetadata["mid"])
                         try:
                             cu = vipro.channel.getCover(msg.contentMetadata["mid"])
                         except:
                             cu = ""
-                        vipro.sendText(msg.to,"[displayName]:\n" + msg.contentMetadata["displayName"] + "\n[mid]:\n" + msg.contentMetadata["mid"] + "\n[statusMessage]:\n" + contact.statusMessage + "\n[pictureStatus]:\nhttp://dl.profile.line-cdn.net/" + contact.pictureStatus + "\n[coverURL]:\n" + str(cu))
+                        ki.sendText(msg.to,"[displayName]:\n" + msg.contentMetadata["displayName"] + "\n[mid]:\n" + msg.contentMetadata["mid"] + "\n[statusMessage]:\n" + contact.statusMessage + "\n[pictureStatus]:\nhttp://dl.profile.line-cdn.net/" + contact.pictureStatus + "\n[coverURL]:\n" + str(cu))
                     else:
-                        contact = vipro.getContact(msg.contentMetadata["mid"])
+                        contact = ki.getContact(msg.contentMetadata["mid"])
                         try:
-                            cu = vipro.channel.getCover(msg.contentMetadata["mid"])
+                            cu = ki.channel.getCover(msg.contentMetadata["mid"])
                         except:
                             cu = ""
                         try:
                             vipro.sendImageWithURL(msg.to, "http://dl.profile.line-cdn.net/" + contact.pictureStatus)
                         except:
                             cu = ""
-                        vipro.sendText(msg.to,"🎀═displayName═🎀\n✤[" + contact.displayName + "]✤\n🎀═MIDs═🎀\n✤[" + msg.contentMetadata["mid"] + "]✤\n🎀═StatusContact═🎀\n✤" + contact.statusMessage + "✤")
-                        vipro.sendText(msg.to,"LINKPROFILE\nhttp://dl.profile.line-cdn.net/" + contact.pictureStatus + "\nLINKBERANDA\n" + str(cu))
+                        ki.sendText(msg.to,"🎀═displayName═🎀\n✤[" + contact.displayName + "]✤\n🎀═MIDs═🎀\n✤[" + msg.contentMetadata["mid"] + "]✤\n🎀═StatusContact═🎀\n✤" + contact.statusMessage + "✤")
+                        ki.sendText(msg.to,"LINKPROFILE\nhttp://dl.profile.line-cdn.net/" + contact.pictureStatus + "\nLINKBERANDA\n" + str(cu))
             elif msg.contentType == 16:
                 if wait["timeline"] == True:
                     msg.contentType = 0
@@ -1322,33 +1322,33 @@ def bot(op):
             elif "/Sendgrup " in msg.text:
               if msg.from_ in creator + admin:
                     bctxt = msg.text.replace("/Sendgrup ", "")
-                    n = vipro.getGroupIdsJoined()
+                    n = ki.getGroupIdsJoined()
                     for manusia in n:
-                        vipro.sendText(manusia, (bctxt))
+                        ki.sendText(manusia, (bctxt))
             elif "/Sendcontact " in msg.text:
               if msg.from_ in creator + admin:
 					bctxt = msg.text.replace("/Sendcontact ", "")
-					t = vipro.getAllContactIds()
+					#t = vipro.getAllContactIds()
 					t = ki.getAllContactIds()
-					t = ki2.getAllContactIds()
-					t = ki3.getAllContactIds()
-					t = ki4.getAllContactIds()
-					t = ki5.getAllContactIds()
-					t = ki6.getAllContactIds()
-					t = ki7.getAllContactIds()
-					t = ki8.getAllContactIds()
-					t = ki9.getAllContactIds()
+					#t = ki2.getAllContactIds()
+					#t = ki3.getAllContactIds()
+					#t = ki4.getAllContactIds()
+					#t = ki5.getAllContactIds()
+					#t = ki6.getAllContactIds()
+					#t = ki7.getAllContactIds()
+					#t = ki8.getAllContactIds()
+					#t = ki9.getAllContactIds()
 					for manusia in t:
-						vipro.sendText(manusia,(bctxt))
+						#vipro.sendText(manusia,(bctxt))
 						ki.sendText(manusia,(bctxt))
-						ki2.sendText(manusia,(bctxt))
-						ki3.sendText(manusia,(bctxt))
-						ki4.sendText(manusia,(bctxt))
-						ki5.sendText(manusia,(bctxt))
-						ki6.sendText(manusia,(bctxt))
-						ki7.sendText(manusia,(bctxt))
-						ki8.sendText(manusia,(bctxt))
-						ki9.sendText(manusia,(bctxt))
+						#ki2.sendText(manusia,(bctxt))
+						#ki3.sendText(manusia,(bctxt))
+						#ki4.sendText(manusia,(bctxt))
+						#ki5.sendText(manusia,(bctxt))
+						#ki6.sendText(manusia,(bctxt))
+						#ki7.sendText(manusia,(bctxt))
+						#ki8.sendText(manusia,(bctxt))
+						#ki9.sendText(manusia,(bctxt))
             elif "/Sendpm " in msg.text:
                     bctxt = msg.text.replace("/Sendpm ", "")
                     t = vipro.getAllContactIds()
